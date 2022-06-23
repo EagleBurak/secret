@@ -267,6 +267,67 @@ body {
     font-size: 2rem;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
 }
+.button .guilded {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.35);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: #f5c400;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+.button .pinterest {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.35);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: #da0021;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+.button .facebook {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.35);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: #1771e6;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+.button .skype {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.35);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: #00a0dc;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+
+.button .tiktok {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.35);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: #FFFFFF;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
 
 .button .text {
     padding: 0 1rem;
